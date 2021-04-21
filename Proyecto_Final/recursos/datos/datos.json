@@ -1,0 +1,49 @@
+{
+    "portafolio" : [
+        {
+            "id" : 1,
+            "nombre" : "Sitio Web",
+            "desc" : "Creámos tu sitio WEB"
+        },
+        {
+            "id" : 2,
+            "nombre" : "Maquetado",
+            "desc" : "Te brindamos diferentes propuestas para tu pagina"
+        },
+        {
+            "id" : 3,
+            "nombre" : "Diseño",
+            "desc" : "Brindamos un diseño moderno y adaptable para tu plataforma"
+        },
+        {
+            "id" : 4,
+            "nombre" : "Seguimiento",
+            "desc" : "Damos seguimiento para cualquier cambio o arreglo nesesario"
+        },
+        {
+            "id" : 5,
+            "nombre" : "Asistencia",
+            "desc" : "Gracias a nuestro call center te podes comunicar con un experto a cualquier hora "
+        },
+        {
+            "id" : 6,
+            "nombre" : "Cotización",
+            "desc" : "te damos diferentes rangos de precio de acuerdo a tu presupueto"
+        },
+        {
+            "id" : 7,
+            "nombre" : "Asesoramiento",
+            "desc" : "te brindamos toda la ayuda profecional para que sepás exactamente lo que necesitas"
+        },
+        {
+            "id" : 8,
+            "nombre" : "Instalación",
+            "desc" : "Brindamos ayuda en instalacion de equipos "
+        }
+        
+    ]
+
+    
+}
+
+

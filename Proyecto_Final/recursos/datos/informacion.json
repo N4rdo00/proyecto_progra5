@@ -1,0 +1,15 @@
+{
+    "trabajadores":[
+        {
+            "id" : 1,
+            "puesto" : "Gerente General",
+            "nombre" : "Marco Polo",
+            "desc" : "Responsable por la dirección y representación legal,judicial y extrajudicial, estableciendo las políticas generales que\n regirán a la empresa. Desarrolla y define los objetivos organizacionales. Planifica el crecimiento de la empresa a corto y a largo plazo."
+            
+        }
+        
+    ]
+
+    
+
+}
